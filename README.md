@@ -19,3 +19,7 @@ algorithm1：
 输入固定距离k:2
 
 输出扩展距离：10
+
+
+
+algorithm2:
