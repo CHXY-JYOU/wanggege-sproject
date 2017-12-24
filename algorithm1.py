@@ -1,6 +1,5 @@
-#!/usr/bin/env python
 # -*- coding:utf-8 -*-
-import numpy as np
+
 import pandas as pd
 
 MAX = 100000 #标识最大的可能整数
