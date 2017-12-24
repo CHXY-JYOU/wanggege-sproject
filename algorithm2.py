@@ -2,7 +2,6 @@
 
 MAX = 50  # 最大活动数
 
-
 class Active(object):  # 活动类
     def __init__(self, s, f, no):
         self.s = s  # 开始时间
