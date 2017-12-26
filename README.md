@@ -31,11 +31,11 @@
 ★　结果输出：将编程计算出的最少会场数输出到文件output.txt.
 
 输入文件示例　　　　　　输出文件示例  
-input. txt　　　　　　　　output. txt  
+input. txt&ensp;　　　　　　　　output. txt  
 5 　　　　　 　　　　　　3  
-1    23  
-12   28  
-25   35  
-27   80  
-36   50
+1&ensp;&ensp;&ensp;　23  
+12　　28  
+25　　35  
+27　　80  
+36　　50
 
